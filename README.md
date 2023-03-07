@@ -29,27 +29,43 @@ Examples:
 @.@.
 
 C...
+
 Placement 1: total score = 1.
 The top cow has a score of 0. The bottom cow has a score of 1.
 
+
 #...
+
 ....
+
 @C@.
+
 .C..
+
 Placement 2: total score = -5.
 The top cow has a score of -2 ( 1-3 ). The bottom cow has a score of -3.
 
+
 #...
+
 ..C.
+
 @.@.
+
 C...
+
 Placement 3: total score = 2.
 The top cow has a score of 1. The bottom cow has a score of 1.
 
+
 #...
+
 C...
+
 @.@.
+
 ..C.
+
 Placement 4: total score = 4.
 The top cow has a score of 3 ( 1+2 ). The bottom cow has a score of 1.
 
