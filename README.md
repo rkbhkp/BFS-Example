@@ -23,8 +23,11 @@ Notice then that a cow surrounded by grass cells has a score of 0. If a cow is n
 Examples:
 
 #..C
+
 ....
+
 @.@.
+
 C...
 Placement 1: total score = 1.
 The top cow has a score of 0. The bottom cow has a score of 1.
